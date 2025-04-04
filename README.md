@@ -177,7 +177,7 @@ I deployed the site on Vercel for its simplicity and automatic scaling. Here’s
 2. Google Search Console: Submitted the sitemap and requested indexing.
 3. Fast Indexing: Used a Web 2.0 blog (e.g., Blogger) to link to my site, triggering Google’s crawler.
 
-The site was live at <a href="https://www.beefpc28.com" alt="加拿大28开奖网">加拿大28开奖网</a>, and Google indexed it in less than 24 hours! 🕸️
+The site was live at <a href="https://www.beepc28.com" alt="加拿大28开奖网">加拿大28开奖网</a>, and Google indexed it in less than 24 hours! 🕸️
 const LotteryModel = mongoose.model('Lottery', LotterySchema);
 
 ## 🔮 What's Next?
@@ -186,7 +186,7 @@ const LotteryModel = mongoose.model('Lottery', LotterySchema);
 + SEO Boost: Build more backlinks (like this post!) to improve rankings.
 
 ## 📚 Resources
-+ Check out the live site: <a href="https://www.beefpc28.com" alt="加拿大28开奖网">加拿大28开奖网</a>
++ Check out the live site: <a href="https://www.beepc28.com" alt="加拿大28开奖网">加拿大28开奖网</a>
 + React Docs: <a href="reactjs.org">reactjs</a>
 + WebSocket Tutorial: <a href="websocket.org">websocket</a>
 + Tailwind CSS: <a href="tailwindcss.com">tailwindcss.com</a>
